@@ -1,4 +1,4 @@
-package ru.netology.tournament;
+package ru.netology.playerstournament;
 
 public class NotRegisteredException extends RuntimeException {
     public NotRegisteredException(String playName) {

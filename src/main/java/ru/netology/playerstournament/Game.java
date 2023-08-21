@@ -1,4 +1,4 @@
-package ru.netology.tournament;
+package ru.netology.playerstournament;
 
 
 import java.util.ArrayList;
